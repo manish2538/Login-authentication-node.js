@@ -1,0 +1,13 @@
+body{
+    /* background-color: black; */
+    background-image: url('/assets/login-background.jfif');
+}
+.center-div{
+  padding-top:10%;
+}
+
+.container{
+    background-color: white;
+    
+    
+}
